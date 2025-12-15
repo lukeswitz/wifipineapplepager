@@ -103,7 +103,7 @@ DuckyScript commands are always in all capital letters to distinguish them from 
 
 Payloads can be constructed of DuckyScript commands alone, or combined with the power of bash scripting and system commands to create fully custom, advanced actions.
 
-The files in this repository are _the source code_ for your payloads and run _directly on the device_ **no compilation required** - simply place your `payload.txt` in the appropriate directory and you're ready to go!
+The files in this repository are _the source code_ for your payloads and run _directly on the device_ **no compilation required** - simply place your `payload.sh` in the appropriate directory and you're ready to go!
 
 <h1><a href="https://payloadstudio.hak5.org">Build your payloads with PayloadStudio</a></h1>
 <p align="center">

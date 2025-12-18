@@ -1,0 +1,9 @@
+[submodule "themes"]
+	path = themes
+	url = https://github.com/hak5/wifipineapplepager-themes
+[submodule "ringtones"]
+	path = ringtones
+	url = https://github.com/hak5/wifipineapplepager-ringtones
+[submodule "payloads"]
+	path = payloads
+	url = https://github.com/hak5/wifipineapplepager-payloads
